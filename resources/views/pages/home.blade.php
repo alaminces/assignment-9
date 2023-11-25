@@ -14,13 +14,13 @@
           <div class="contact-links">
 						<ul class="list-unstyled d-flex justify-content-end mb-0 justify-content-center">
 							<li class="me-3">
-								<a href=""><i class="fa-brands fa-facebook text-white border rounded p-3"></i></a>
+								<a target="_blank" href="{{ url('https://web.facebook.com/alamincse6/') }}"><i class="fa-brands fa-facebook text-white border rounded p-3"></i></a>
 							</li>
 							<li class="me-3">
-								<a href=""><i class="fa-brands fa-github border text-white rounded p-3"></i></a>
+								<a target="_blank" href="{{url('https://github.com/alaminces/')}}"><i class="fa-brands fa-github border text-white rounded p-3"></i></a>
 							</li>
 							<li class="me-3">
-								<a href=""><i class="fa-brands fa-linkedin text-white border-hover border rounded p-3"></i></a>
+								<a target="_blank" href="{{ url('https://www.linkedin.com/in/alamin-miah-816862281') }}"><i class="fa-brands fa-linkedin text-white border-hover border rounded p-3"></i></a>
 							</li>
 						</ul>
 					</div>
